@@ -1,0 +1,3 @@
+
+class Syntaxfel(Exception):
+    pass
